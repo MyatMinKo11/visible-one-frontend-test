@@ -146,7 +146,6 @@ ul {
 
 .logo__icon {
   color: var(--color-primary);
-  /* font-size: var(--font-size-base); */
   height: 32px;
 }
 
@@ -163,7 +162,6 @@ ul {
 
 .nav__link {
   font-weight: 500;
-  /* font-size: var(--font-size-base); */
   font-size: 20px;
   color: var(--color-text);
   position: relative;
