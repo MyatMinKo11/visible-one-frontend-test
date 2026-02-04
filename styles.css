@@ -482,6 +482,11 @@ ul {
   outline: none;
 }
 
+.email-form__input::placeholder,
+.email-form__input::-webkit-input-placeholder {
+  color: #d4d4d4 !important;
+}
+
 .email-form__input::placeholder {
   color: var(--color-text-muted);
 }
